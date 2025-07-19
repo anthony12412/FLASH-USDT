@@ -3,6 +3,10 @@
 
 ## 💬 Contact On Telegram: [Flashanthony](https://t.me/flashanthony)
 
+## [Facebook](https://www.facebook.com/flash.anthony.2025)
+
+## [Youtube](https://youtube.com/shorts/yBP6vMAozWQ?si=TeqiC8mRVTlCgRRM)
+
 ## 📌 Introduction
 
 ### This repository provides a Flash USDT Selling System that allows users to buy and swap Flash USDT on TRON (TRC20), Ethereum (ERC20), and BSC (BEP20) networks.
@@ -120,5 +124,6 @@ Smart contract is verified on blockchain explorers
 ## For any issues or customizations, contact:
 
 # 💬 Telegram: [Flashanthony](https://t.me/flashanthony)
-
+## [Facebook](https://www.facebook.com/flash.anthony.2025)
+## [Youtube](https://youtube.com/shorts/yBP6vMAozWQ?si=TeqiC8mRVTlCgRRM)
 
